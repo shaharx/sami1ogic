@@ -10,6 +10,5 @@ script:
 
 deploy:
   provider: heroku
-  api_key: "31062e86-8c59-40dd-9162-bd040f865680"
-    secure: "YOUR ENCRYPTED API KEY"
-  app: "sami1ogic"
+  api_key: 
+    secure: "31062e86-8c59-40dd-9162-bd040f865680"
